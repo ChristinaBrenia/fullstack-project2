@@ -12,4 +12,4 @@ Creepventures is a social media based blog system that allows users, once they r
 
 ## Project Links
 Link to Github: https://github.com/tabathambell/fullstack-project2
-Link to deployed application on Heroku: https://creepventures-project2.herokuapp.com/
+Link to deployed application on Heroku: https://creepventures-project2.herokuapp.com/# creepy-ventures
